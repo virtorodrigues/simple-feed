@@ -5,7 +5,7 @@
 
 https://simple-feed.vercel.app/
 
-Simple-feed é uma aplicação web construída durante o curso Ignite de React da RocketSeat.
+Simple-feed é uma aplicação full ReactJs construída durante o curso Ignite de React da RocketSeat.
 
 A aplicação é bem simples e consiste na exibição de posts (fixos) com a possibilidade de adicionar/remover comentários e "aplaudir" cada comentário.
 
@@ -29,8 +29,9 @@ O intuito desta aplicação é utilizar muuitos dos conceitos básicos do react.
 
 # Tecnologias utilizadas
 ## Front-end
+- React
 - CSS (module)
-- TypeScript
+- TypeScript / JavaScript
 
 ## Implantação em produção
 - Front-end web: Vercel
