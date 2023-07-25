@@ -1,5 +1,5 @@
 # Simple-feed
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/virtorodrigues/simple-feed/blob/master/LICENCE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/virtorodrigues/simple-feed/blob/master/LICENSE) 
 
 # Sobre o projeto
 
